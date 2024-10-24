@@ -12,7 +12,7 @@ function App() {
   const [loadingReview, setLoadingReview] = useState({}); // Loading status for reviews
 
   // Array of genres for the user to select
-  const genres = ['hardcover-fiction', 'hardcover-nonfiction', 'science'];
+  const genres = ['Fiction', 'Nonfiction', 'science'];
 
   const apiKey = process.env.REACT_APP_API_KEY;
 
@@ -93,7 +93,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>📚 NYT Best Sellers and Reviews 📚</h1>
+      <h1>📚 Book Recommendations & Reviews 📚</h1>
 
       {/* Genre selection section */}
       <div className="genre-selection">
