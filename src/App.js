@@ -17,7 +17,6 @@ function App() {
   const apiKey = process.env.REACT_APP_API_KEY;
 
 
-
   // Ref to manage abort controllers for fetch calls
   const abortControllerRef = useRef(null);
 
