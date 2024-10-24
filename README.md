@@ -4,7 +4,7 @@
 This web application allows users to browse New York Times (NYT) best sellers across genres like fiction, nonfiction, and science. Users can view reviews for selected books directly from the NYT API. The app addresses the common problem of book discovery by giving users quick access to current best sellers and critical reviews.
 
 ## Problem Solved
-The app helps users who frequently seek new books to read by providing curated lists of best sellers with critical reviews to inform their reading choices in addition to providing relevant reviews so readers can find recommendations and choose between them all on the same site. The prooblem faced usually is looking for recommendations seperately filrering many searches for genres, bestsellers, and reviews. The site does all at once
+The app helps users who frequently seek new books to read by providing curated lists of best sellers with critical reviews to inform their reading choices in addition to providing relevant reviews so readers can find recommendations and choose between them all on the same site. The prooblem faced usually is looking for recommendations seperately and filtering many searches for genres, bestsellers, and reviews. The site does all at once
 
 ## Features
 - Browse genres like Fiction, Nonfiction, and Science.
