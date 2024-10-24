@@ -14,7 +14,7 @@ The app helps users who frequently seek new books to read by providing curated l
 ## Project Setup
 1. Install Node.js from [Node.js](https://nodejs.org/).
 2. Clone the repository.
-3. Run `npx create-react-app <project-name>` in your terminal.
+3. Run `npx create-react-app <bookrec>` in your terminal.
 4. Replace the contents of the `src` folder with the project files.
 5. Run `npm install` to install dependencies.
 
