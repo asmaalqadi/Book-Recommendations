@@ -12,7 +12,7 @@ function App() {
   const [loadingReview, setLoadingReview] = useState({}); // Loading status for reviews
 
   // Array of genres for the user to select
-  const genres = ['Fiction', 'Nonfiction', 'science'];
+  const genres = ['hardcover-fiction', 'hardcover-nonfiction', 'science'];
 
   const apiKey = process.env.REACT_APP_API_KEY;
 
