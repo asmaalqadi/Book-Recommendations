@@ -14,8 +14,9 @@ function App() {
   // Array of genres for the user to select
   const genres = ['hardcover-fiction', 'hardcover-nonfiction', 'science'];
 
-  // Hardcoded API key for NYT Books API
-  const apiKey = 'kqiSNbkibpjFoK1QAUG6Ht4AlBZPqAIS';
+  const apiKey = process.env.REACT_APP_API_KEY;
+
+
 
   // Ref to manage abort controllers for fetch calls
   const abortControllerRef = useRef(null);
